@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact <br> **I am willing to learn and can study under pressure in order to achieve the goal. I am hardworking, team player and has shown integrity all the time. I stay focus and ensure that I will be able to fulfill my responsibilities.** </br>
 
-- 📄 Certifications and Training <br> **- Microsoft Technology Associate (Database Administration Fundamentals) - August 2020** 
+- 📄 Certifications and Trainings <br> **- Microsoft Technology Associate (Database Administration Fundamentals) - August 2020** 
 <br> **- NSE 1 Network Security Associate - March 2022 - March 2024** <br> **- NSE 2 Network Security Associate - March 2022 - March 2024** <br>
 **- OPSWAT File Security Associate - September 2022** <br> **- OPSWAT Secure Storage - September 2022** <br> **- OPSWAT Web Traffic Protection - September 2022** <br>
 <br> *- IT IS Your Choice! The Adamson University IT &IS Technology Summit* <br> *- IT & IS Career and Personality Development* <br> *- The Evolution of Cybersecurity*
