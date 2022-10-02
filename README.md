@@ -5,10 +5,15 @@
 <img align="right" alt="Coding" width="200" src="https://github.com/johnata20/johnata20/blob/main/image_processing20210909-29286-dr58yz.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnata20&label=Profile%20views&color=0e75b6&style=flat" alt="johnata20" /> </p>
 
-- 📫 How to reach me **johnrodolfoa@gmail.com**
+- 📫 How to reach me <br> **johnrodolfoa@gmail.com** </br>
 
-- ⚡ Fun fact **I am willing to learn and can study under pressure in order to achieve the goal. I am hardworking, team player and has shown integrity all the time. I stay focus and ensure that I will be able to fulfill my responsibilities.**
+- ⚡ Fun fact <br> **I am willing to learn and can study under pressure in order to achieve the goal. I am hardworking, team player and has shown integrity all the time. I stay focus and ensure that I will be able to fulfill my responsibilities.** </br>
 
+- 📄 Certifications and Training <br> **- Microsoft Technology Associate (Database Administration Fundamentals) - August 2020** 
+<br> **- NSE 1 Network Security Associate - March 2022 - March 2024** <br> **- NSE 2 Network Security Associate - March 2022 - March 2024** <br>
+**- OPSWAT File Security Associate - September 2022** <br> **- OPSWAT Secure Storage - September 2022** <br> **- OPSWAT Web Traffic Protection - September 2022** <br>
+<br> *- IT IS Your Choice! The Adamson University IT &IS Technology Summit* <br> *- IT & IS Career and Personality Development* <br> *- The Evolution of Cybersecurity*
+<br> *- Information Security Awareness* <br> *- MS Tech Session – Azure Fundamentals* <br> *- DevOps Certification Training* <br> *- Introduction to Cloud Computing* <br> *- Introduction to Cyber Security* <br> *- Microsoft Azure Virtual Training Day: Fundamentals* <br> *- Post Graduate Program in Cyber Security* <br> *- OPSWAT Introduction to Critical Infrastructure Protection (CIP)* <br> *- Caltech CTME Post Graduate Program in Full Stack Web Development* <br> *- Enderun Extension's UX Design Webinar* <br> *- Data Science & AI Career Bootcamp* </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/john-rodolfo-ata-b05a20231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-rodolfo-ata-b05a20231" height="30" width="40" /></a>
