@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I am passionate about programming and networking.</h3>
-
+<img align="right" alt="Coding" width="200" src="https://github.com/johnata20/johnata20/blob/main/image_processing20210909-29286-dr58yz.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnata20&label=Profile%20views&color=0e75b6&style=flat" alt="johnata20" /> </p>
 
 - 📫 How to reach me **johnrodolfoa@gmail.com**
