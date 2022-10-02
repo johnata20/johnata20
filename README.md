@@ -1,4 +1,4 @@
-<img aligh="center" width="1350" height="500px" src="https://github.com/johnata20/johnata20/blob/main/Cream%20Sky%20Blue%20Green%20Illustrated%20Boy%20Studying%20Desktop%20Wallpaper.png"/>
+<img aligh="center" width="1350" height="400px" src="https://github.com/johnata20/johnata20/blob/main/Cream%20Sky%20Blue%20Green%20Illustrated%20Boy%20Studying%20Desktop%20Wallpaper.png"/>
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I am passionate about programming and networking.</h3>
