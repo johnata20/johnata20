@@ -1,4 +1,4 @@
-<img aligh="center" src="https://github.com/johnata20/johnata20/blob/main/1.png"/>
+<img aligh="center" width="1000" height="500px" src="https://github.com/johnata20/johnata20/blob/main/Cream%20Aesthetic%20Daily%20Motivation%20Poster.png"/>
 
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I am passionate about programming and networking.</h3>
